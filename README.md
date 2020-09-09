@@ -2,6 +2,7 @@
 #include<conio.h>
 #include<math.h>
 #define add(x,y) x+y
+#define sub(x,y) x-y
 int main() {
 	int x = 3;
 	int y = 1;
